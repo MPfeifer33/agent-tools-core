@@ -1,0 +1,8 @@
+agent-tools-core
+Copyright 2026 Mark Pfeifer
+
+agent-tools-core is the shared plumbing crate for the agent CLI tools
+(latch, witness, sieve, rivet, sentinel, quarry).
+
+Redistributions and derivative works must preserve this NOTICE file, or an
+equivalent attribution notice, as required by the Apache License, Version 2.0.
