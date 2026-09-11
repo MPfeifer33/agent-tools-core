@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Shared plumbing for the agent CLI tools: repo-root detection, output format, JSON envelope, exit codes"
 license = "Apache-2.0"
+repository = "https://github.com/MPfeifer33/agent-tools-core"
 
 [lib]
 name = "agent_tools_core"

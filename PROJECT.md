@@ -6,7 +6,7 @@ the `--format json|text` value enum, JSON printing plus the optional response
 envelope, the exit-code table with `doctor --strict` gate codes, and the
 stderr error report.
 
-**Status:** v0.1.0, first cut. All six tools depend on it by path
+**Status:** v0.1.0, first cut. All six tools depend on it by path Published to GitHub 2026-09-11 (public, tag v0.1.0); the six tools depend on it by git tag.
 (`../agent-tools-core`). Only quarry is on the JSON envelope; the other five
 keep their pinned contracts. Not published; publishing (crates.io or git dep)
 is Mark's call.
